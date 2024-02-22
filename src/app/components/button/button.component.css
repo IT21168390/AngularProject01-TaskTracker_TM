@@ -8,7 +8,7 @@
     text-decoration: none;
     cursor: pointer;
     border: 2px solid #000000; /* Primary color */
-    color: #fbff00; /* Primary color */
+    color: #fff; /* Primary color */
     background-color: transparent;
     border-radius: 4px;
     transition: background-color 0.3s, color 0.3s;
@@ -16,7 +16,7 @@
   
   .btn:hover {
     background-color: #007bff; /* Primary color */
-    color: #fff;
+    color: #fbff00;
   }
   
   /* Additional button styles */
