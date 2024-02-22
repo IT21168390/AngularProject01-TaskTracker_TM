@@ -1,0 +1,19 @@
+
+.add-form {
+    margin-bottom: 40px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #000000; /* Primary color */
+    color: #fff; /* Primary color */
+    background-color: black;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
